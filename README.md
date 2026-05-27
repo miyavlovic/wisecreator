@@ -60,3 +60,6 @@ To enable wordwise, the lang meta data of your .mobi files should be set to `eng
 
 ---
 
+## Türkçe Notlar
+
+Bu araç, Kindle cihazlarına Word Wise özelliği eklemek için kullanılır.
